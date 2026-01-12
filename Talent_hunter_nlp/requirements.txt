@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+beautifulsoup4
+tqdm
+sentence-transformers
+scikit-learn
+faiss-cpu
+streamlit
+fastapi
+uvicorn
+python-multipart

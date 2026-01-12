@@ -1,0 +1,18 @@
+# Environnements virtuels (le plus important !)
+venv/
+.venv/
+env/
+/Talent_hunter_nlp/venv/
+
+# Node.js
+node_modules/
+dist/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Données volumineuses
+Data/
+Images/
+.env
